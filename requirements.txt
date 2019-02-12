@@ -1,0 +1,4 @@
+pbr
+requests
+stevedore
+xdg

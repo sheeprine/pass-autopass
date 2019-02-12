@@ -1,0 +1,10 @@
+hacking
+coverage
+doc8
+flake8
+flake8-mypy
+stestr
+sphinx
+responses
+testtools
+testfixtures
